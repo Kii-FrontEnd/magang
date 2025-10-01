@@ -1,2 +1,1 @@
-test rizki 1
-test rizki 2
+fitur 3
